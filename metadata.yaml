@@ -1,0 +1,31 @@
+_repo: Killykinick_26985
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Waggaman, Mary T. (Mary Theresa)
+    alias: Waggaman, Mary Theresa
+    birthdate: 1846
+    deathdate: 1931
+    gutenberg_agent_id: '32410'
+    url: http://www.gutenberg.org/2009/agents/32410
+description: ''
+gutenberg_issued: '2008-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26985'
+  lccn: '17031425'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seashore -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+title: Killykinick
+url: http://www.gutenberg.org/ebooks/26985
